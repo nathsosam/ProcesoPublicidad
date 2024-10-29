@@ -1,0 +1,15 @@
+﻿Installing assembly 'C:\Bizagi\Projects\ProcesoPublicidadCFS\Scheduler\BizAgi.Scheduler.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   name = BizAgiProcesoPublicidadCFSSchedulerService
+   assemblypath = C:\Bizagi\Projects\ProcesoPublicidadCFS\Scheduler\BizAgi.Scheduler.Services.exe
+   logfile = C:\Bizagi\Projects\ProcesoPublicidadCFS\Scheduler\BizAgi.Scheduler.Services.InstallLog
+Installing service BizAgiProcesoPublicidadCFSSchedulerService...
+Service BizAgiProcesoPublicidadCFSSchedulerService has been successfully installed.
+Creating EventLog source BizAgiProcesoPublicidadCFSSchedulerService in log Application...
+Committing assembly 'C:\Bizagi\Projects\ProcesoPublicidadCFS\Scheduler\BizAgi.Scheduler.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   name = BizAgiProcesoPublicidadCFSSchedulerService
+   assemblypath = C:\Bizagi\Projects\ProcesoPublicidadCFS\Scheduler\BizAgi.Scheduler.Services.exe
+   logfile = C:\Bizagi\Projects\ProcesoPublicidadCFS\Scheduler\BizAgi.Scheduler.Services.InstallLog
